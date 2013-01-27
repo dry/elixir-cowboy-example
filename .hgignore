@@ -1,0 +1,5 @@
+.gitignore
+mix.lock
+deps/*
+ebin/*
+log/*
