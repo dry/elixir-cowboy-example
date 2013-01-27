@@ -4,7 +4,7 @@ This is an example application using Elixir, Cowboy and Lager.
 
 # Installation & Setup
 
-Clone the repository and then use the [Elixir Mix Tool][mix] to get the dependencies:
+Clone the repository and then use the [Elixir Mix Tool](http://elixir-lang.org/gettting_started/mix.html) to get the dependencies:
 
     mix deps.get
 
@@ -29,5 +29,4 @@ Use the exit method to stop the application and exit the shell:
     iex(2)> Example.exit
 
 
-[mix] http://elixir-lang.org/getting_started/mix.html
 
